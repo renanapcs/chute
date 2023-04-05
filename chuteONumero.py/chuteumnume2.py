@@ -1,9 +1,3 @@
-# Iniciar o programa gerar um numero de 1 a 10 aleatorio.
-# usuario input um numero.
-# numero do input < > ou = ao numero aleatorio gerado pelo sistema.
-# if for = mensagem('voce acertou')
-# if for < ou > mensagem('numero ${< menor} ou numero ${> maior} ')
-
 import random
 
 class ChuteCerto:
@@ -24,4 +18,3 @@ class ChuteCerto:
 chute = ChuteCerto()
 
 chute.chuteNumero()
-
